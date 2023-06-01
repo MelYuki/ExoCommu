@@ -1,2 +1,2 @@
-Joueur 1: Melvyne Taïder
-Joueur 2: Gilain$ Nkundiye
+# Joueur 1: Melvin Taïder
+# Joueur 2: Gulain Nkundiye
